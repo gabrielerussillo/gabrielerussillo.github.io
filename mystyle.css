@@ -1,0 +1,37 @@
+body {
+	background-color: #6e6502;
+}
+	
+h1 {
+	text-align:center;
+	color:black;
+	background-color:white;
+}
+
+.border {
+	border: 2px double black;
+}
+
+table {
+	width: 100%;
+}
+
+.style {
+	font-size:20px;
+	padding:30px; 
+	color:white; 
+	font-family:'Times New Roman', serif;
+}
+
+.gabriele {
+	width: 75%;
+	height: auto;
+	padding:10px;	
+}
+
+.francavilla {
+	width: 75%;
+	height: auto;
+	padding:10px;	
+}
+
