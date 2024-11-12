@@ -53,7 +53,7 @@ h2 {
 	text-align:center;
 	color:black;
 	background-color:#8a9597;
-	padding: 10px;
+
 }
 .attestato{
 	width: 100%;
@@ -62,7 +62,7 @@ h2 {
 }
 
 .columbus{
-	width: 65%;
+	width: 100%;
 	height: auto;
 	padding:10px;
 }
